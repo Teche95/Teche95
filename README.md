@@ -1,7 +1,7 @@
 <div align="center">
     <h1 align="center"> Hola 👋, soy Gustavo Techeira</h1>
     <h3 align="center">Misiones, Argentina 🌎</h3>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" width="300" />
+<!--     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" width="300" /> -->
     <br />
     <h3 align="center">⚡Sobre mi:</h3>
     <h4 align="center">Apasionado por la tecnología y el aprendizaje continuo sobre todo lo que respecta a programación.

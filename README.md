@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" width="300" />
+<!--     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" width="300" /> -->
     <h1 align="center"> Hola 👋, soy Gustavo Techeira</h1>
     <h3 align="center">Misiones, Argentina 🌎</h3>
 <!--     <br /> -->

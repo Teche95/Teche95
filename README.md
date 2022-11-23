@@ -16,8 +16,7 @@
     <h3 align="center">📫Conecta conmigo:</h3>
     <p align="center">
         <a href="https://www.linkedin.com/in/gustavo-julian-techeira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo-julian-techeira-bb74681b8/" height="30" width="40" /></a>
-        {/* <a href="julian.techeira9@gmail.com" ><img align="center" src="https://img.icons8.com/ios-filled/512/new-post.png" height="30" width="40" /></a> */}
-        <a href="julian.techeira9@gmail.com" target="_blank" rel="noopener noreferrer">Email Us</a>
+        <a mailto="julian.techeira9@gmail.com" ><img align="center" src="https://img.icons8.com/ios-filled/512/new-post.png" height="30" width="40" /></a>
     </p>
 </div>
 

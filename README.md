@@ -6,7 +6,7 @@
     <h3 align="center">⚡Sobre mi:</h3>
     <h4 align="center">Apasionado por la tecnología y el aprendizaje continuo sobre todo lo que respecta a programación.
         <br/>
-        Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas para poder desarrollar
+        Actualmente, continúo instruyéndome con nuevas tecnologías poder desarrollar
         <br/>
         aún más mis habilidades e incrementar mis conocimientos.</h4>
     <br /> 

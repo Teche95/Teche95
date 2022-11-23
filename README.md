@@ -17,7 +17,7 @@
     <p align="center">
         <a href="https://www.linkedin.com/in/gustavo-julian-techeira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo-julian-techeira-bb74681b8/" height="30" width="40" /></a>
     </p>
-    <h3 align="center">⚡Sobre mi:</h3>
+    <h3 align="center">Email:</h3>
         <a href="mailto:julian.techeira9@gmail.com">julian.techeira9@gmail.com</a>
 </div>
 

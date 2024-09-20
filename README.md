@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=teche95&label=Profile%20views&color=0e75b6&style=flat" alt="teche95" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo. **TypeScript**
+- 🌱 Actualmente estoy aprendiendo: **TypeScript**
 
-- 👨‍💻Todos mis proyectos están disponibles en [https://portfolio-iota-mocha-81.vercel.app/](https://portfolio-iota-mocha-81.vercel.app/)
+- 👨‍💻Todos mis proyectos están disponibles en: [https://portfolio-iota-mocha-81.vercel.app/](https://portfolio-iota-mocha-81.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

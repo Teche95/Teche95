@@ -22,7 +22,7 @@ Apasionado por la tecnología y el aprendizaje continuo sobre todo lo que respec
 
 <p align="center">
 <a href="https://linkedin.com/in/gustavojulian techeira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo julian techeira" height="30" width="40" /></a>
-<a href="julian.techeira9@gmail.com" target="blank">
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <h3>Languages and Tools:</h3>

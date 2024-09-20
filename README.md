@@ -1,9 +1,17 @@
-<h1 align="center">Hola 👋, soy Gustavo Techeira</h1>
-<h3 align="center">Apasionado por la tecnología y el aprendizaje continuo sobre todo lo que respecta a programación. Actualmente, continúo instruyéndome con nuevas tecnologías para poder desarrollar
-   <br />
-  aún más mis habilidades e incrementar mis conocimientos.</h3>
+<h1 align="center">Hola , soy Gustavo Techeira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Programador+web;Frontend;Backend" alt="Typing SVG" /></a>
+</p>
+<br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=teche95&label=Profile%20views&color=0e75b6&style=flat" alt="teche95" /> </p>
+
+
+# 💫 About Me:
+
+Apasionado por la tecnología y el aprendizaje continuo sobre todo lo que respecta a programación. Actualmente, continúo instruyéndome con nuevas tecnologías para poder desarrollar aún más mis habilidades e incrementar mis conocimientos.
+
+
 
 - 🌱 Actualmente estoy aprendiendo: **TypeScript**
 
@@ -21,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teche95&show_icons=true&locale=es&theme=github_dark" alt="teche95" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teche95&theme=github_dark" alt="teche95" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teche95&theme=github_dark&locale=es" alt="teche95" /></p>

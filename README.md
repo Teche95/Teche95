@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, soy Gustavo Techeira</h1>
-<h3 align="center">Apasionado por la tecnología y el aprendizaje continuo sobre todo lo que respecta a programación. Actualmente, continúo instruyéndome con nuevas tecnologías para poder desarrollar aún más mis habilidades e incrementar mis conocimientos.</h3>
+<h3 align="center">Apasionado por la tecnología y el aprendizaje continuo sobre todo lo que respecta a programación. Actualmente, continúo instruyéndome con nuevas tecnologías para poder desarrollar
+   <br />
+  aún más mis habilidades e incrementar mis conocimientos.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=teche95&label=Profile%20views&color=0e75b6&style=flat" alt="teche95" /> </p>
 

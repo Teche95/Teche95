@@ -8,7 +8,7 @@
 # 💫 Sobre Mí:
 
 Apasionado por la tecnología y el aprendizaje continuo sobre todo lo que respecta a programación. Actualmente, continúo instruyéndome con nuevas tecnologías para poder desarrollar aún más mis habilidades e incrementar mis conocimientos.
-🔭 **I’m currently working on:**  <br>Improving the performance of serverless microservices architecture deployed on AWS Lambda.
+
 <br><br>👯 **Estoy buscando colaborar en:**  <br>Fullstack/Frontend/Backend
 <br><br>🌱 **Actualmente estoy aprendiendo:**  <br>`TypeScript`.
 <br><br>💬 **Pregúntame sobre:**  <br>`JavaScript`, `TypeScript`, `React`, `Node.js`, `Express`.
